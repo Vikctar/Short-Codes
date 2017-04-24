@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DataWallet</string>
+
+    <!-- Category name for Safaricom [CHAR LIMIT=20] -->
+    <string name="category_safcom">Safaricom</string>
+
+    <!-- Category name for Airtel [CHAR LIMIT=20] -->
+    <string name="category_airtel">Airtel</string>
+
+    <!-- Category name for Orange [CHAR LIMIT=20] -->
+    <string name="category_orange">Orange</string>
+
+    <!-- Category name for YU [CHAR LIMIT=20] -->
+    <string name="category_yu">Yu Mobile</string>
+
+    <!-- Category name for DSTV [CHAR LIMIT=20] -->
+    <string name="category_dstv">DSTV</string>
+
+    <!-- Category name for GOTV [CHAR LIMIT=20] -->
+    <string name="category_gotv">GOTV</string>
+</resources>
