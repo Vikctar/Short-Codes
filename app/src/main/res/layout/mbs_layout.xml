@@ -23,12 +23,6 @@
                 android:paddingRight="10dp"
                 android:paddingTop="20dp">
 
-                <!--<RelativeLayout-->
-                <!--android:layout_width="100dp"-->
-                <!--android:layout_height="100dp"-->
-                <!--android:background="@color/colorPrimary">-->
-
-                <!--</RelativeLayout>-->
 
                 <RelativeLayout
                     android:layout_width="100dp"
@@ -40,7 +34,7 @@
                         android:layout_height="wrap_content"
                         android:layout_centerHorizontal="true"
                         android:layout_centerVertical="true"
-                        android:text="@string/token"
+                        android:text="50mb"
                         android:textColor="#ddd"
                         android:textSize="23dp" />
                 </RelativeLayout>
@@ -56,12 +50,6 @@
                 android:paddingRight="20dp"
                 android:paddingTop="20dp">
 
-                <!--<RelativeLayout-->
-                <!--android:layout_width="100dp"-->
-                <!--android:layout_height="100dp"-->
-                <!--android:background="@color/colorPrimary">-->
-
-                <!--</RelativeLayout>-->
 
                 <RelativeLayout
                     android:layout_width="100dp"
@@ -73,7 +61,7 @@
                         android:layout_height="wrap_content"
                         android:layout_centerHorizontal="true"
                         android:layout_centerVertical="true"
-                        android:text="@string/token"
+                        android:text="100mb"
                         android:textColor="#ddd"
                         android:textSize="23dp" />
                 </RelativeLayout>
@@ -87,12 +75,6 @@
                 android:paddingRight="20dp"
                 android:paddingTop="20dp">
 
-                <!--<RelativeLayout-->
-                <!--android:layout_width="100dp"-->
-                <!--android:layout_height="100dp"-->
-                <!--android:background="@color/colorPrimary">-->
-
-                <!--</RelativeLayout>-->
 
                 <RelativeLayout
                     android:layout_width="100dp"
@@ -104,7 +86,7 @@
                         android:layout_height="wrap_content"
                         android:layout_centerHorizontal="true"
                         android:layout_centerVertical="true"
-                        android:text="@string/token"
+                        android:text="500mb"
                         android:textColor="#ddd"
                         android:textSize="23dp" />
                 </RelativeLayout>
